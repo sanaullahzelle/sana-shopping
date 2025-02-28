@@ -123,7 +123,7 @@ Deploy the website:
 bash
 Copy
 npm run deploy
-Your website will be deployed to https://your-username.github.io/online-shopping-website.
+Your website will be deployed to (https://github.com/sanaullahzelle?tab=repositories).
 
 Project Structure
 Here’s an overview of the project structure:
