@@ -35,7 +35,7 @@ First, clone the repository to your local machine using the following command:
 
 bash
 Copy
-git clone https://github.com/your-username/online-shopping-website.git
+git clone https://github.com/sanaullahzelle/online-shopping-website.git
 Navigate to the project directory:
 
 bash
@@ -132,8 +132,8 @@ Copy
 online-shopping-website/
 ├── public/                  # Static assets
 ├── src/
-│   ├── components/          # Reusable components (Header, Footer, etc.)
-│   ├── pages/               # Page components (Home, Shop, Cart, etc.)
+│   ├── components/          # Reusable components (Header, Footer)
+│   ├── pages/               # Page components (Home, Shop, Cart)
 │   ├── redux/               # Redux store and slices
 │   ├── App.js               # Main application component
 │   ├── index.js             # Entry point
